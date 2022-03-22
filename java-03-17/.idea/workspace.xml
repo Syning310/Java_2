@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6139342e-7584-4542-97b2-89aa8f18a0ff" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26ULIj3mTyjXQZxqf6QUGoKYTwD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Syning_GitHub\IDEA\java-03-17\lib" />
+      <recent name="D:\Syning_GitHub\IDEA\java-03-17\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dao_.domain_" />
+      <recent name="dao_.utils_" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDAO_0.testGoodsDAO">
+    <configuration name="TestDAO_0.testGoodsDAO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-03-17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao_.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dao_.test" />
+      <option name="MAIN_CLASS_NAME" value="dao_.test.TestDAO_0" />
+      <option name="METHOD_NAME" value="testGoodsDAO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDAO_0.testMyHomeDAO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-03-17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao_.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dao_.test" />
+      <option name="MAIN_CLASS_NAME" value="dao_.test.TestDAO_0" />
+      <option name="METHOD_NAME" value="testMyHomeDAO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_0.testQueryMany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-03-17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apache_dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apache_dbutils" />
+      <option name="MAIN_CLASS_NAME" value="apache_dbutils.Test_0" />
+      <option name="METHOD_NAME" value="testQueryMany" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_2.testScalar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-03-17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apache_dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apache_dbutils" />
+      <option name="MAIN_CLASS_NAME" value="apache_dbutils.Test_2" />
+      <option name="METHOD_NAME" value="testScalar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_3.testDML" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-03-17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apache_dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apache_dbutils" />
+      <option name="MAIN_CLASS_NAME" value="apache_dbutils.Test_3" />
+      <option name="METHOD_NAME" value="testDML" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDAO_0.testGoodsDAO" />
+        <item itemvalue="JUnit.Test_0.testQueryMany" />
+        <item itemvalue="JUnit.TestDAO_0.testMyHomeDAO" />
+        <item itemvalue="JUnit.Test_3.testDML" />
+        <item itemvalue="JUnit.Test_2.testScalar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6139342e-7584-4542-97b2-89aa8f18a0ff" name="变更" comment="" />
+      <created>1647473143609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647473143609</updated>
+    </task>
+    <servers />
+  </component>
+</project>
